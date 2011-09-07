@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>e.preventDefault();</string>
+	<string>click($0)</string>
 	<key>name</key>
-	<string>preventDefault()</string>
+	<string>click()</string>
 	<key>tabTrigger</key>
-	<string>e.pd</string>
+	<string>cl</string>
 	<key>uuid</key>
-	<string>9F3913D8-B42B-424A-B938-73476F3A6216</string>
+	<string>0D7AC62D-A020-48F9-B447-807DA5E0C2A3</string>
 </dict>
 </plist>
